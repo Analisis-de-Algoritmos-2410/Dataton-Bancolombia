@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/datasets/cvelas24/dataton-2023/data
 
+Solucion en excel: https://livejaverianaedu-my.sharepoint.com/:x:/g/personal/sfelipe_galindor_javeriana_edu_co/EZ9yPIPtb0NKtCGL3khvqEkB_yqKtOFV6vNZBBjy7lxwKw?e=CQSfYA
+
 ## Etapa 1
 
 Tener en cuenta los estados posibles de los trabajadores
